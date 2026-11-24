@@ -41,7 +41,7 @@ Motivated and skilled in AI, ML, and Data Science, I enjoy solving real-world ch
 
 ## 🧠 Skills
 
-- **Languages:** Python, Java, SQL  
+- **Languages:** Python, Java, SQL, .NET
 - **Tools:** VS Code, Anaconda, XAMPP  
 - **Technologies:** Machine Learning, Data Science, YOLO  
 - **Soft Skills:** Communication, Leadership, Time Management, Problem Solving
